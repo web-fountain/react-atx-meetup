@@ -1,6 +1,7 @@
 # Vercel Bot
 
-> Presented at the React ATX Meetup
+> Presented at the React ATX Meetup  
+> Don't forget to add your API KEY: https://sdk.vercel.ai/docs/getting-started/nextjs-app-router#configure-openai-api-key
 
 ```bash
 pnpm install
